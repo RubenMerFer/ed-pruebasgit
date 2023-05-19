@@ -5,7 +5,6 @@
             "universo": "Super Mario",
             "debut": 1981,
             "id": 1,
-            "image_path": "mario.png",
             "movimientos": "Bola de fuego, Capa, Supersalto Puñetazo, ACUAC",
             "Smash final": "Mario Final",
             "video_SmashFinal": "https://www.youtube.com/watch?v=INk1W8OujQI"
@@ -15,7 +14,6 @@
             "universo": "Super Mario",
             "debut": 1985,
             "id": 14,
-            "image_path": "bowser.png",
             "movimientos": "Aliento de fuego, Martinete giratorio, Fortaleza giratoria, Bomba Bowser",
             "Smash final": "Puñetazo de Giga Bowser",
             "video_SmashFinal": "https://www.youtube.com/watch?v=liuwszyDhXM"
@@ -25,7 +23,6 @@
             "universo": "Metroid",
             "debut": 1986,
             "id": 4,
-            "image_path": "samus.png",
             "movimientos": "Disparo carga, Misil, Ataque Espiral, Bomba",
             "Smash final": "Láser Zero",
             "video_SmashFinal": "https://www.youtube.com/watch?v=I9tcvSeemVo"
@@ -35,7 +32,6 @@
             "universo": "Metroid",
             "debut": 1986,
             "id": 65,
-            "image_path": "ridley.png",
             "movimientos": "Aliento Abrasador, Carga Espacial, Embestida aérea, Estocada mortal",
             "Smash final": "Grito de Plasma",
             "video_SmashFinal": "https://www.youtube.com/watch?v=EDi1Zf_vJsY"
@@ -45,7 +41,6 @@
             "universo": "Fire Emblem",
             "debut": 2005,
             "id": 32,
-            "image_path": "ike.png",
             "movimientos": "Erupción, Espadazo, Éter, Contraataque",
             "Smash final": "Gran Éter",
             "video_SmashFinal": "https://www.youtube.com/watch?v=-aV6h3jWO6c"
@@ -55,7 +50,6 @@
             "universo": "Fire Emblem",
             "debut": 2012,
             "id": 25,
-            "image_path": "chrom.png",
             "movimientos": "Hoja Llameante, Danza Doble del Sable, Vuelo Impetuoso, Bloqueo",
             "Smash final": "Éter del despertar",
             "video_SmashFinal": "https://www.youtube.com/watch?v=733o521fbdE"
