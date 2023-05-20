@@ -1,58 +1,56 @@
-{
-    "personajes ": [
-        {
-            "nombre": "Mario",
-            "universo": "Super Mario",
-            "debut": 1981,
-            "id": 1,
-            "movimientos": "Bola de fuego, Capa, Supersalto Puñetazo, ACUAC",
-            "Smash_final": "Mario Final",
-            "video_SmashFinal": "https://www.youtube.com/watch?v=INk1W8OujQI"
-        },
-        {
-            "nombre": "Bowser",
-            "universo": "Super Mario",
-            "debut": 1985,
-            "id": 14,
-            "movimientos": "Aliento de fuego, Martinete giratorio, Fortaleza giratoria, Bomba Bowser",
-            "Smash_final": "Puñetazo de Giga Bowser",
-            "video_SmashFinal": "https://www.youtube.com/watch?v=liuwszyDhXM"
-        },
-        {
-            "nombre": "Samus",
-            "universo": "Metroid",
-            "debut": 1986,
-            "id": 4,
-            "movimientos": "Disparo carga, Misil, Ataque Espiral, Bomba",
-            "Smash_final": "Láser Zero",
-            "video_SmashFinal": "https://www.youtube.com/watch?v=I9tcvSeemVo"
-        },
-        {
-            "nombre": "Ridley",
-            "universo": "Metroid",
-            "debut": 1986,
-            "id": 65,
-            "movimientos": "Aliento Abrasador, Carga Espacial, Embestida aérea, Estocada mortal",
-            "Smash_final": "Grito de Plasma",
-            "video_SmashFinal": "https://www.youtube.com/watch?v=EDi1Zf_vJsY"
-        },
-        {
-            "nombre": "Ike",
-            "universo": "Fire Emblem",
-            "debut": 2005,
-            "id": 32,
-            "movimientos": "Erupción, Espadazo, Éter, Contraataque",
-            "Smash_final": "Gran Éter",
-            "video_SmashFinal": "https://www.youtube.com/watch?v=-aV6h3jWO6c"
-        },
-        {
-            "nombre": "Chrom",
-            "universo": "Fire Emblem",
-            "debut": 2012,
-            "id": 25,
-            "movimientos": "Hoja Llameante, Danza Doble del Sable, Vuelo Impetuoso, Bloqueo",
-            "Smash_final": "Éter del despertar",
-            "video_SmashFinal": "https://www.youtube.com/watch?v=733o521fbdE"
-        }
-    ]
-}
+[
+    {
+        "nombre": "Mario",
+        "universo": "Super Mario",
+        "debut": 1981,
+        "id": 1,
+        "movimientos": "Bola de fuego, Capa, Supersalto Puñetazo, ACUAC",
+        "Smash_final": "Mario Final",
+        "video_SmashFinal": "https://www.youtube.com/watch?v=INk1W8OujQI"
+    },
+    {
+        "nombre": "Bowser",
+        "universo": "Super Mario",
+        "debut": 1985,
+        "id": 14,
+        "movimientos": "Aliento de fuego, Martinete giratorio, Fortaleza giratoria, Bomba Bowser",
+        "Smash_final": "Puñetazo de Giga Bowser",
+        "video_SmashFinal": "https://www.youtube.com/watch?v=liuwszyDhXM"
+    },
+    {
+        "nombre": "Samus",
+        "universo": "Metroid",
+        "debut": 1986,
+        "id": 4,
+        "movimientos": "Disparo carga, Misil, Ataque Espiral, Bomba",
+        "Smash_final": "Láser Zero",
+        "video_SmashFinal": "https://www.youtube.com/watch?v=I9tcvSeemVo"
+    },
+    {
+        "nombre": "Ridley",
+        "universo": "Metroid",
+        "debut": 1986,
+        "id": 65,
+        "movimientos": "Aliento Abrasador, Carga Espacial, Embestida aérea, Estocada mortal",
+        "Smash_final": "Grito de Plasma",
+        "video_SmashFinal": "https://www.youtube.com/watch?v=EDi1Zf_vJsY"
+    },
+    {
+        "nombre": "Ike",
+        "universo": "Fire Emblem",
+        "debut": 2005,
+        "id": 32,
+        "movimientos": "Erupción, Espadazo, Éter, Contraataque",
+        "Smash_final": "Gran Éter",
+        "video_SmashFinal": "https://www.youtube.com/watch?v=-aV6h3jWO6c"
+    },
+    {
+        "nombre": "Chrom",
+        "universo": "Fire Emblem",
+        "debut": 2012,
+        "id": 25,
+        "movimientos": "Hoja Llameante, Danza Doble del Sable, Vuelo Impetuoso, Bloqueo",
+        "Smash_final": "Éter del despertar",
+        "video_SmashFinal": "https://www.youtube.com/watch?v=733o521fbdE"
+    }
+]
