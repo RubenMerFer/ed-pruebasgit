@@ -4,7 +4,7 @@
         "universo": "Super Mario",
         "debut": 1981,
         "id": 1,
-        "movimientos": "Especial normal: Bola de fuego,                                                                                                   Especial lateral: Capa,                                                                                                             Especial hacia arriba: Supersalto Puñetazo,                                                                                         Especial hacia abajo: ACUAC",
+        "movimientos": "Bola de fuego, Capa, Supersalto Puñetazo, ACUAC",
         "Smash_final": "Mario Final",
         "video_SmashFinal": "https://www.youtube.com/embed/INk1W8OujQI"
     },
@@ -13,7 +13,7 @@
         "universo": "Super Mario",
         "debut": 1985,
         "id": 14,
-        "movimientos": "Especial normal: Aliento de fuego,                                                                                                 Especial lateral: Martinete giratorio,                                                                                              Especial hacia arriba: Fortaleza giratoria,                                                                                         Especial hacia abajo: Bomba Bowser",
+        "movimientos": "Aliento de fuego, Martinete giratorio, Fortaleza giratoria, Bomba Bowser",
         "Smash_final": "Puñetazo de Giga Bowser",
         "video_SmashFinal": "https://www.youtube.com/embed/liuwszyDhXM"
     },
@@ -22,7 +22,7 @@
         "universo": "Metroid",
         "debut": 1986,
         "id": 4,
-        "movimientos": "Especial normal: Disparo carga,                                                                                                    Especial lateral: Misil,                                                                                                            Especial hacia arriba: Ataque Espiral,                                                                                              Especial hacia abajo: Bomba",
+        "movimientos": "Disparo carga, Misil, Ataque Espiral, Bomba",
         "Smash_final": "Láser Zero",
         "video_SmashFinal": "https://www.youtube.com/embed/I9tcvSeemVo"
     },
@@ -31,7 +31,7 @@
         "universo": "Metroid",
         "debut": 1986,
         "id": 65,
-        "movimientos": "Especial normal: Aliento Abrasador,                                                                                                Especial lateral: Carga Espacial,                                                                                                   Especial hacia arriba: Embestida aérea,                                                                                             Especial hacia abajo: Estocada mortal",
+        "movimientos": "Aliento Abrasador, Carga Espacial, Embestida aérea, Estocada mortal",
         "Smash_final": "Grito de Plasma",
         "video_SmashFinal": "https://www.youtube.com/embed/EDi1Zf_vJsY"
     },
@@ -40,7 +40,7 @@
         "universo": "Fire Emblem",
         "debut": 2005,
         "id": 32,
-        "movimientos": "Especial normal: Erupción,                                                                                                         Especial lateral: Espadazo,                                                                                                         Especial hacia arriba: Éter,                                                                                                        Especial hacia abajo: Contraataque",
+        "movimientos": "Erupción, Espadazo, Éter, Contraataque",
         "Smash_final": "Gran Éter",
         "video_SmashFinal": "https://www.youtube.com/embed/-aV6h3jWO6c"
     },
@@ -49,7 +49,7 @@
         "universo": "Fire Emblem",
         "debut": 2012,
         "id": 25,
-        "movimientos": "Especial normal: Hoja Llameante, Especial lateral: Danza Doble del Sable, Especial hacia arriba: Vuelo Impetuoso, Especial hacia abajo: Bloqueo",
+        "movimientos": "Hoja Llameante, Danza Doble del Sable, Vuelo Impetuoso, Bloqueo",
         "Smash_final": "Éter del despertar",
         "video_SmashFinal": "https://www.youtube.com/embed/733o521fbdE"
     }
